@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.wiken.e2edemo.St00E2edemoApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.010 s -- in com.wiken.e2edemo.St00E2edemoApplicationTests
