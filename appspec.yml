@@ -4,7 +4,7 @@ os: linux
 
 files:
   - source: target/st00-e2edemo.war
-    destination: /home/ec2-user/apache-tomcat-9.0.85/webapps/
+    destination: /home/ec2-user/apache-tomcat-9.0.90/webapps/
 hooks:
   BeforeInstall:
     - location: scripts/before_install.sh
